@@ -1,2 +1,3 @@
 # Music-Generator
-This project generates music which are piano tunes and also it visualizes it.
+This project aims to generate music. Right now there are some piano notes generated and those piano notes are also plotted as graphs.
+
